@@ -9,11 +9,11 @@
     html, 
     body {
         font: 16px '210 GureumGothic 050';
-        color: #fff;
+        color: #7d7d7d;
     }
 
     body{
-        background-color: #3f3f3f;
+        background-color: #fafafa;
     }
 
     ul,ol,li {
